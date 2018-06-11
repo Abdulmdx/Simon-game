@@ -8,8 +8,8 @@
 
 #### Technologie used for this project
 
--HTML
--CSS
--Jquery
--PHP
--MySql
+- HTML
+- CSS
+- Jquery
+- PHP
+- MySql
